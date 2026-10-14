@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Настроение</string>
+
+    <string name="title_hello">Привет! Как тебя зовут?</string>
+    <string name="hint_name">Введите имя…</string>
+    <string name="hint_mood">Какое у тебя настроение?</string>
+
+    <string name="btn_greet_desc">Поздороваться</string>
+    <string name="img_mood_desc">Изображение настроения</string>
+
+    <string name="result_placeholder">Здесь появится ответ…</string>
+
+    <string name="hello_anon">Привет, друг!</string>
+    <string name="hello_named">Привет, %1$s!</string>
+
+    <string name="mood_good">Рад, что у тебя отличное настроение! 😊</string>
+    <string name="mood_bad">Не грусти, всё наладится! 🙁</string>
+    <string name="mood_neutral">Нормальное настроение — тоже хорошо! 😐</string>
+    <string name="mood_unknown">Не понял настроение, но желаю хорошего дня! 🤔</string>
+</resources>
